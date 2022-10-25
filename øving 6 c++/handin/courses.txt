@@ -1,0 +1,3 @@
+Emnekode: TDT4102 Emnenavn: Prosedyre- og objektorientert programmering
+Emnekode: TDT4110 Emnenavn: Informasjonsteknologi grunnkurs
+Emnekode: TMA4100 Emnenavn: Matematikk 1

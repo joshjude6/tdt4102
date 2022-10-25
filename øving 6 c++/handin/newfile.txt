@@ -1,0 +1,4 @@
+1 ost
+2 debug
+3 pause
+4 pyramide
